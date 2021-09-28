@@ -4,3 +4,5 @@
 In this assignment project, the trained model is able to detect faces and classify them into 5 classes, which is ‘With Mask’, ‘No Mask’, ‘Incorrect Mask (No
 Cover Nose)’, ‘Incorrect Mask (No Cover Chin)’, and ‘Incorrect Mask (No Cover Nose and Mouth)’. Although there is still space for improvement on the accuracy, the direction
 of the project is good, where we can detect the error when people are wearing the mask incorrectly.
+
+![mask](https://user-images.githubusercontent.com/65883921/135116682-a6e6f7a6-f2e6-4e2c-b25b-9d64e01b677b.png)
